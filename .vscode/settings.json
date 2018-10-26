@@ -1,8 +1,11 @@
 {
     "files.associations": {
+        "*.vsh": "glsl",
+        "*.fsh": "glsl",
         "iostream": "cpp",
         "array": "cpp",
         "streambuf": "cpp",
-        "chrono": "cpp"
+        "chrono": "cpp",
+        "string_view": "cpp"
     }
 }
